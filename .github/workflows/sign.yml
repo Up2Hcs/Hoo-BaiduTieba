@@ -1,4 +1,4 @@
-name: Actions-Sign
+name: 百度每日签到
 on:
   schedule:
     - cron: 44 2,12 * * *
